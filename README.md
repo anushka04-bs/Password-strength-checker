@@ -34,7 +34,7 @@ This project not only evaluates password strength but also provides suggestions,
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - HTML  
 - CSS  
